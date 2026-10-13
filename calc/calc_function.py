@@ -8,3 +8,8 @@ def Multiple(a, b):
 
 def DevidedNum(a, b):
     return a / b
+
+
+def Mines(a, b):
+    return a - b
+
