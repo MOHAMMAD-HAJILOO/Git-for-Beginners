@@ -13,3 +13,6 @@ def DevidedNum(a, b):
 def Mines(a, b):
     return a - b
 
+
+def power(a, b):
+    return a**b
