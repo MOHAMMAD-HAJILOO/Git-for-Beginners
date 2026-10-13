@@ -1,5 +1,3 @@
-from calc.calc_function import PlusNum, Devided
+from calc.calc_function import PlusNum
 
-x = PlusNum(2, 3)
-
-z = Devided(10, 5)
+p = PlusNum(2, 4)
